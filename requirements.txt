@@ -1,0 +1,10 @@
+# 机器学习金融量化项目环境依赖
+# Requirements for ML Quantitative Finance Project
+
+pandas
+numpy
+matplotlib
+scikit-learn
+tensorflow
+statsmodels
+scipy
