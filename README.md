@@ -1,5 +1,5 @@
 # Prediction-Stock-Market-Project (Archived)
-## 说明 Exclaim
+## 说明 Note
 
 本repo是先前关于股价预测的一个归档整理，方便日后查阅，团队所得的对应代码供参考,运行需详细调试
 
